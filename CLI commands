@@ -1,0 +1,19 @@
+CLI commands
+
+pwd: print working directory- where you are in the computer
+mkdir: creates a new directory/folder
+cd: change directory
+cd ..: go back one action
+ls: list the contents in the current directory
+touch: create a new file
+mv: move file/folder
+cp: copy file/folder
+grep: find 
+echo: display lines of text or string which are passed as arguments on the command line
+cmd + k: clear the terminal
+ctrl + a: take cursor to the beginning of line
+ctrl + e: take cursor to the end of the line
+ctrl + u: clear the input line
+ctrl + c: abort current task and regain user control
+option + click to the area: takes cursor to the part of line you want to type input
+cat: print the content of a file onto 
