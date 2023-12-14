@@ -16,4 +16,4 @@ ctrl + e: take cursor to the end of the line
 ctrl + u: clear the input line
 ctrl + c: abort current task and regain user control
 option + click to the area: takes cursor to the part of line you want to type input
-cat: print the content of a file onto 
+cat: print the content of a file onto the standard output stream. The 'cat' command also allows us to write some texts into a file
